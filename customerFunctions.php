@@ -1,7 +1,4 @@
-<?php
-//Assignment 10
-//Prince Nimoh
-//Student#: 000792122	
+<?php	
 	//This function writes data from an associativeArray to the travelexperts database.
 	//It takes the name of the table and the associativeArray as parameters.
 	//Returns a boolean value indicating if the insert operation was successful.
